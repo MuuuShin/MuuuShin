@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=MuuuShin&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-- 🌱 I’m currently a undergraduate student, learning Python/Java/other I'm interested in ![Static Badge](https://img.shields.io/badge/Java-ok-1) ![Static Badge](https://img.shields.io/badge/Python-ok-1)![Static Badge](https://img.shields.io/badge/C%2FC%2B%2B-learning-yellow)![Static Badge](https://img.shields.io/badge/assembly-beginner-green)
+- 🌱 I’m currently a undergraduate student, learning Python/Java/other. I'm interested in ![Static Badge](https://img.shields.io/badge/Java-ok-1) ![Static Badge](https://img.shields.io/badge/Python-ok-1)![Static Badge](https://img.shields.io/badge/C%2FC%2B%2B-learning-yellow)![Static Badge](https://img.shields.io/badge/assembly-beginner-green)
 ![Static Badge](https://img.shields.io/badge/verilog-beginner-green)
 
 
