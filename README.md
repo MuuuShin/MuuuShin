@@ -5,6 +5,7 @@
 - 🌱 I’m currently a undergraduate student, learning Python/Java/other. I'm interested in ![Static Badge](https://img.shields.io/badge/Java-ok-1)![Static Badge](https://img.shields.io/badge/Python-ok-1)![Static Badge](https://img.shields.io/badge/C%2FC%2B%2B-learning-yellow)![Static Badge](https://img.shields.io/badge/SQL-learning-yellow)![Static Badge](https://img.shields.io/badge/assembly-beginner-green)
 ![Static Badge](https://img.shields.io/badge/verilog-beginner-green)
 
+- 👯 I'm doing an internship in the company [tapall.AI](https://tapall.ai/).
 
 - 📫 How to reach me: maybe muxin916@gmail.com? But I don't check this email frequently, so why not issue in some repository?
 
