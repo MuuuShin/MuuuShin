@@ -7,7 +7,7 @@
 
 - 👯 I'm doing an internship in the company [tapall.AI](https://tapall.ai/).
 
-- 📫 How to reach me: maybe muxin916@gmail.com? But I don't check this email frequently, so why not issue in some repository?
+- 📫 How to reach me: 1248440677@qq.com. 
 
 - 🤖 I'm a QQ bot developer focusing on rhythm games.
 
