@@ -13,9 +13,9 @@
 
 <div align="center">
 
-  ![MuuuShin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuuuShin&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true)
+  ![MuuuShin's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=MuuuShin&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true)
   
-  ![GitHub Streak](https://streak-stats.demolab.com?user=MuuuShin)
+  
 </div>
 
 <div align="center">
